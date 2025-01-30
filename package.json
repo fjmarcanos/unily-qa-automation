@@ -1,0 +1,19 @@
+{
+  "name": "unily-automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/**/*.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chromedriver": "^132.0.2",
+    "selenium-webdriver": "^4.28.1"
+  },
+  "devDependencies": {
+    "mocha": "^11.1.0"
+  }
+}
